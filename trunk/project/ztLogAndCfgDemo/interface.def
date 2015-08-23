@@ -1,0 +1,14 @@
+LIBRARY	"ztLogAndCfgDemo"
+
+EXPORTS
+	InitLogAndCfgWnd
+	ShowCfgWnd
+	HideCfgWnd
+	ShowLineLossWnd
+	HideLineLossWnd
+	ShowLimitsWnd
+	HideLimitsWnd
+	DestroyLogAndCfgRes
+	AddLogToWndW
+	AddLogToWndA
+	ClearLogWnd
